@@ -1,0 +1,16 @@
+# Environments
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Data/Media files (ignored as requested and best practice)
+inputs/
+outputs/
+output/
